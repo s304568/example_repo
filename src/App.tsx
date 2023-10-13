@@ -1,13 +1,11 @@
-import { useState } from 'react'
-
 import './App.css'
-
+import PuppyImage from "./components/PuppyImage"
 function App() {
   
 
   return (
     <>
-      
+      <PuppyImage/>
     </>
   )
 }
