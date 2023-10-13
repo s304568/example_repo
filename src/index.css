@@ -1,0 +1,18 @@
+.flex-box{
+    display: flex
+}
+
+.color-box{
+    display:flex;    
+}
+.red-box{
+    background-color: red;
+    padding: 20px;
+}
+
+.blue-box{
+    background-color: blue;
+}
+
+button{width: 30%;
+}
